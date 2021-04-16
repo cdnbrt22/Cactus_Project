@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425378754406",
+    "project_id": "the-cactus-8c8c4",
+    "storage_bucket": "the-cactus-8c8c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425378754406:android:fb673d9c781673f40d62a7",
+        "android_client_info": {
+          "package_name": "com.example.cactus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425378754406-qcucf45tn0t8jva97kj8tq15vcv20gnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMKLXtYWA3aUK-ezb1Y8qg9LtJPuqiUQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425378754406-qcucf45tn0t8jva97kj8tq15vcv20gnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
